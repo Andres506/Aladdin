@@ -1,0 +1,18 @@
+[
+    {
+        "ticker": "bitcoin",
+        "cantidad_invertida": 120.0,
+        "cantidad_activos": 0.0010079399999999997,
+        "fecha": "2025-07-21",
+        "hora": "06:45",
+        "precio_compra": 117256.9208222684
+    },
+    {
+        "ticker": "ripple",
+        "cantidad_invertida": 128.0,
+        "cantidad_activos": 35.96,
+        "fecha": "2025-07-21",
+        "hora": "06:46",
+        "precio_compra": 3.455651421168503
+    }
+]

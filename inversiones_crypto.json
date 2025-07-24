@@ -1,0 +1,14 @@
+[
+    {
+        "ticker": "ripple",
+        "fecha": "2025-07-21",
+        "hora": "06:45",
+        "cantidad": 35.95
+    },
+    {
+        "ticker": "bitcoin",
+        "fecha": "2025-07-21",
+        "hora": "06:45",
+        "cantidad": 35.95
+    }
+]
