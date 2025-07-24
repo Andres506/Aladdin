@@ -7,3 +7,4 @@ plotly
 prophet
 textblob
 scikit-learn
+python-dotenv
