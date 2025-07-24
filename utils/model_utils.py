@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 from prophet import Prophet
 from sklearn.preprocessing import MinMaxScaler
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense
-from tensorflow.keras.callbacks import EarlyStopping
+#from tensorflow.keras.models import Sequential
+#from tensorflow.keras.layers import LSTM, Dense
+#from tensorflow.keras.callbacks import EarlyStopping
 import streamlit as st
 
 @st.cache_data(ttl=600)
