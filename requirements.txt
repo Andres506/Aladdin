@@ -8,3 +8,4 @@ prophet
 textblob
 scikit-learn
 python-dotenv
+seaborn
